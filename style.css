@@ -369,7 +369,7 @@ body {
         gap: 10px;
          flex-direction: column;
          display: flex;
-    align-items: flex-start;
+    align-items: center;
         
     }
     }
