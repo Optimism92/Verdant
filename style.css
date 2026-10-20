@@ -368,7 +368,13 @@ body {
     .hero-container{
         gap: 10px;
          flex-direction: column;
-         margin-left: 0px;
+         display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 15px;
+        
     }
     }
     @media (max-width:700px){
