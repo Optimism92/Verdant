@@ -122,6 +122,7 @@ body {
   padding: 20px;
   gap: 50px;
   justify-content: space-between;
+  
 }
 .hero-text-container {
   display: flex;
@@ -312,6 +313,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 .timer-icon {
   color: green;
@@ -366,6 +368,7 @@ body {
     .hero-container{
         gap: 10px;
          flex-direction: column;
+         margin-left: 0px;
     }
     }
     @media (max-width:700px){
