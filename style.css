@@ -369,11 +369,7 @@ body {
         gap: 10px;
          flex-direction: column;
          display: flex;
-    flex-direction: column;
-    width: 100%;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 15px;
+    align-items: flex-start;
         
     }
     }
