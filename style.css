@@ -895,7 +895,7 @@ font-weight: 500;
   width:400px;
     height: 250px;
 } 
-/* .WEEKEND-20-GREENS-second-second-text{
+.WEEKEND-20-GREENS-second-second-text{
   padding-top: 7px;
 }  
 .WEEKEND-20-GREENS-second-second-text h4{
@@ -909,6 +909,8 @@ font-size: 9px;
   height: 20px;
    font-size: 9px;
 }
+/* 
+
 .scan{
   position: absolute;
   right: 15px;
